@@ -1,4 +1,5 @@
-﻿* {
+﻿/** arquivo de estilizacao global aplicaco no App.js */
+* {
     margin: 0;
     padding: 0;
     outline: 0;

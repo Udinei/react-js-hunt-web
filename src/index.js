@@ -1,3 +1,5 @@
+// Esse é o primeiro arquivo a ser carregado pela aplicação
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
